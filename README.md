@@ -6,5 +6,9 @@ In the project have been created an application using streamlit in order to vali
 
 In these links you can watch videos of the application.
 https://www.youtube.com/watch?v=LAZwK6gqL2A&t=43s&ab_channel=DimitrisChortarias
+
+
 https://www.youtube.com/watch?v=fXlxGuHO6GA&ab_channel=DimitrisChortarias
+
+
 https://www.youtube.com/watch?v=48YH1-SJi9c&ab_channel=DimitrisChortarias
